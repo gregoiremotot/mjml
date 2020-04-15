@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'mirum_serifregular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://raw.githubusercontent.com/gregoiremotot/mjml/master/mirum_serif-webfont.woff2) format('woff2');
+  unicode-range: U+00-FF;
+}

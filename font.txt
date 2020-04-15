@@ -1,0 +1,6 @@
+ @font-face {
+  font-family: 'mirum_serif';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Raleway'), local('Raleway-Regular'), url(https://www.mirumagency.com/static/fonts/mirum_serif-webfont.woff) format('woff');
+}
